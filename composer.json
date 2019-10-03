@@ -1,0 +1,14 @@
+{
+    "name": "kazak71/eloquent-50",
+    "description": "Standalone Laravel Eloquent v.5.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petar Kazakov",
+            "email": "kazak.71@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
